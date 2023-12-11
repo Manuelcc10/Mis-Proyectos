@@ -1,0 +1,26 @@
+/* Estilo para el TextField */
+.text-field {
+    -fx-background-color: #ffffff; /* Color de fondo */
+    -fx-text-fill: #464646; /* Color del texto */
+    -fx-font-size: 14px; /* Tamaño de fuente */
+    -fx-font-family: "System"; /* Fuente */
+    -fx-border-width: 1px; /* Ancho del borde */
+    -fx-border-color: #3f6baf; /* Color del borde enfocado */
+    -fx-background-radius: 15px;
+    -fx-border-radius:15px;
+
+}
+
+/* Estilo para el TextField enfocado */
+.text-field:focused {
+    -fx-border-color: #0078d4; /* Color del borde enfocado */
+    -fx-background-radius: 15px;
+    -fx-border-radius: 15px; /* Radio del borde */
+
+}
+
+.error-field {
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+}
+
