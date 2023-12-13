@@ -1,0 +1,59 @@
+
+J
+java:S1604h"(Make this anonymous inner class a lambda(…Û‚ôüÿÿÿÿ8ÑĞ¡éÅ1
+w
+java:S1104#"UMake text_usur a static final constant or non-public and provide accessors if needed.(¾½ˆàşÿÿÿÿ8ÒĞ¡éÅ1
+s
+java:S1104$"VMake txt_contra a static final constant or non-public and provide accessors if needed.(ˆ²±ü8ÒĞ¡éÅ1
+x
+java:S1104%"VMake txt_Nombre a static final constant or non-public and provide accessors if needed.(¯«Óøüÿÿÿÿ8ÒĞ¡éÅ1
+{
+java:S1104&"YMake txt_IdCliente a static final constant or non-public and provide accessors if needed.(¡ÄÔƒıÿÿÿÿ8ÒĞ¡éÅ1
+v
+java:S1104'"YMake txt_direccion a static final constant or non-public and provide accessors if needed.(œª¼ö8ÒĞ¡éÅ1
+z
+java:S1104("XMake txt_Contacto a static final constant or non-public and provide accessors if needed.(Ì¥àùÿÿÿÿ8ÒĞ¡éÅ1
+p
+java:S1104)"SMake txt_DNI a static final constant or non-public and provide accessors if needed.(»¿Ã¼8ÒĞ¡éÅ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÌÛœ‰üÿÿÿÿ8ÓĞ¡éÅ1
+S
+java:S1143½"5Remove this return statement from this finally block.(ûÁİ…8ÔĞ¡éÅ1
+u	java:S116#"TRename this field "text_usur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾½ˆàşÿÿÿÿ8ƒÒ¡éÅ1
+q	java:S116$"URename this field "txt_contra" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ²±ü8ƒÒ¡éÅ1
+v	java:S116%"URename this field "txt_Nombre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯«Óøüÿÿÿÿ8ƒÒ¡éÅ1
+y	java:S116&"XRename this field "txt_IdCliente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÄÔƒıÿÿÿÿ8ƒÒ¡éÅ1
+t	java:S116'"XRename this field "txt_direccion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œª¼ö8ƒÒ¡éÅ1
+x	java:S116("WRename this field "txt_Contacto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¥àùÿÿÿÿ8ƒÒ¡éÅ1
+n	java:S116)"RRename this field "txt_DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¿Ã¼8ƒÒ¡éÅ1
+t	java:S116+"SRename this field "tabla_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ûà¾ûÿÿÿÿ8ƒÒ¡éÅ1
+{	java:S116."ZRename this field "colum_clienteID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¨İîùÿÿÿÿ8ƒÒ¡éÅ1
+o	java:S1161"TRename this field "colum_DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¸€v8ƒÒ¡éÅ1
+u	java:S1164"TRename this field "colum_Nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³çùˆşÿÿÿÿ8ƒÒ¡éÅ1
+r	java:S1167"VRename this field "colum_Direc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹İö…8ƒÒ¡éÅ1
+s	java:S116:"WRename this field "colum_Contac" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÈŒÍ8ƒÒ¡éÅ1
+y	java:S116="XRename this field "act_id_entrar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ•ÖÕùÿÿÿÿ8ƒÒ¡éÅ1
+r	java:S116@"QRename this field "id_mod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÖï°ÿÿÿÿÿ8ƒÒ¡éÅ1
+p	java:S116C"TRename this field "id_borrar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙûºÁ8ƒÒ¡éÅ1
+¤
+java:S1186¸"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ºğ¢ùÿÿÿÿ8„Ò¡éÅ1
+k	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃòñÒ8—Ò¡éÅ1
+p	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‘íşÿÿÿÿ8˜Ò¡éÅ1
+k	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹äøÕ8˜Ò¡éÅ1
+j	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ëê;8¤Ò¡éÅ1
+H	java:S106†"+Replace this use of System.out by a logger.(²ôæ8¸Ò¡éÅ1
+k	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûã‘Ç8¸Ò¡éÅ1
+W
+java:S1128";Remove this unused import 'javafx.application.Application'.(í™şj8ò¸¨éÅ1
+U
+java:S1128	"3Remove this unused import 'javafx.fxml.FXMLLoader'.(À‡ô³úÿÿÿÿ8ò¸¨éÅ1
+M
+java:S1128
+"0Remove this unused import 'javafx.scene.Parent'.(²ä¡È8ò¸¨éÅ1
+L
+java:S1128"/Remove this unused import 'javafx.scene.Scene'.(Õü²8ò¸¨éÅ1
+Q
+java:S1128"/Remove this unused import 'javafx.stage.Stage'.(æÄ¸²úÿÿÿÿ8ò¸¨éÅ1
+Q
+java:S1128"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ8ó¸¨éÅ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ó¸¨éÅ1

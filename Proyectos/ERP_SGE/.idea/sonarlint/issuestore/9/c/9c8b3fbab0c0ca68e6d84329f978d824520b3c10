@@ -1,0 +1,43 @@
+
+m	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›æ˜i8…ÎÍÏÅ1
+s	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‚¿Ìÿÿÿÿÿ8…ÎÍÏÅ1
+n	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØáÜ¿8…ÎÍÏÅ1
+s	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¥¢ßıÿÿÿÿ8…ÎÍÏÅ1
+s	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü€¢—ùÿÿÿÿ8…ÎÍÏÅ1
+}
+java:S1104"[Make txt_Nombre_Prod a static final constant or non-public and provide accessors if needed.(Ç•Èøÿÿÿÿ8†ÎÍÏÅ1
+v
+java:S1104"TMake txt_prec a static final constant or non-public and provide accessors if needed.(‡ÿ©üÿÿÿÿ8†ÎÍÏÅ1
+r
+java:S1104"UMake txt_Stock a static final constant or non-public and provide accessors if needed.(¤¶Öä8†ÎÍÏÅ1
+q
+java:S1104"UMake txt_Descr a static final constant or non-public and provide accessors if needed.(¢“ˆ&8†ÎÍÏÅ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ãğı¬ûÿÿÿÿ8‡ÎÍÏÅ1
+{	java:S116"ZRename this field "txt_Nombre_Prod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç•Èøÿÿÿÿ8•ÏÍÏÅ1
+t	java:S116"SRename this field "txt_prec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÿ©üÿÿÿÿ8•ÏÍÏÅ1
+p	java:S116"TRename this field "txt_Stock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¶Öä8•ÏÍÏÅ1
+o	java:S116"TRename this field "txt_Descr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢“ˆ&8•ÏÍÏÅ1
+o	java:S116"SRename this field "tabla_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉØ÷‘8•ÏÍÏÅ1
+y	java:S116!"XRename this field "colum_NomProd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·íÄüÿÿÿÿÿ8•ÏÍÏÅ1
+u	java:S116$"TRename this field "colum_Des" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÏÎÿÿÿÿÿ8•ÏÍÏÅ1
+q	java:S116'"URename this field "colum_Prec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÍé8–ÏÍÏÅ1
+w	java:S116*"VRename this field "colum_Stock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÅ÷ÿıÿÿÿÿ8–ÏÍÏÅ1
+r	java:S116-"WRename this field "colum_IdProv" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÁË8–ÏÍÏÅ1
+u	java:S1160"YRename this field "prov_choose_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Üõ8–ÏÍÏÅ1
+y	java:S1163"XRename this field "act_id_entrar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ•ÖÕùÿÿÿÿ8¤®ĞÏÅ1
+r	java:S1166"QRename this field "id_mod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÖï°ÿÿÿÿÿ8äïÑÏÅ1
+p	java:S1169"TRename this field "id_borrar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙûºÁ8åïÑÏÅ1
+¤
+java:S1186˜"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ºğ¢ùÿÿÿÿ8Ù—èÅ1
+c
+java:S1854F"ARemove this useless assignment to local variable "textFormatter".(æâ…ˆúÿÿÿÿ8šÏÍÏÅ1
+T
+java:S1481F"2Remove this unused "textFormatter" local variable.(æâ…ˆúÿÿÿÿ8 ÏÍÏÅ1
+G	java:S106x"+Replace this use of System.out by a logger.(²ôæ8¡ŒÏÏÅ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹äøÕ8¤ÏÍÏÅ1
+j	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ëê;8´ÏÍÏÅ1
+9
+java:S3626–"Remove this redundant jump.(ûÁİ…8´ÏÍÏÅ1
+k	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûã‘Ç8¸ÏÍÏÅ1
+Q
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8¾ä¾éÅ1

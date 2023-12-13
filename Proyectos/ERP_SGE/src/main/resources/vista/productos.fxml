@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="530.0" prefWidth="627.0" style="-fx-background-color: #4CAF50;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.productos_controller">
+    <children>
+        <Label layoutX="135.0" layoutY="21.0" prefHeight="32.0" prefWidth="122.0" text="Productos" textFill="#f2eeee">
+            <font>
+                <Font name="System Bold" size="22.0" />
+            </font>
+        </Label>
+        <Button fx:id="act_id_entrar" layoutX="234.0" layoutY="401.0" mnemonicParsing="false" onAction="#button_entrar_act" prefHeight="25.0" prefWidth="72.0" style="-fx-background-color: transparent;" />
+        <Label fx:id="id_prod" layoutX="50.0" layoutY="72.0" text="Nombre Producto" textFill="#f2eeee">
+            <font>
+                <Font name="System Bold Italic" size="12.0" />
+            </font>
+        </Label>
+        <Label fx:id="id_prec" layoutX="52.0" layoutY="226.0" text="Precio" textFill="#f2eeee">
+            <font>
+                <Font name="System Bold Italic" size="12.0" />
+            </font>
+        </Label>
+        <Label fx:id="id_stock" layoutX="49.0" layoutY="299.0" text="Stock" textFill="#f2eeee">
+            <font>
+                <Font name="System Bold Italic" size="12.0" />
+            </font>
+        </Label>
+        <Label fx:id="Id_Prov" layoutX="50.0" layoutY="373.0" text="Id Proveedor" textFill="#f2eeee">
+            <font>
+                <Font name="System Bold Italic" size="12.0" />
+            </font>
+        </Label>
+        <Label fx:id="id_Desc" layoutX="52.0" layoutY="151.0" text="Descripción" textFill="#f2eeee">
+            <font>
+                <Font name="System Bold Italic" size="12.0" />
+            </font>
+        </Label>
+        <TextField fx:id="txt_prec" layoutX="47.0" layoutY="256.0" />
+        <TextField fx:id="txt_Stock" layoutX="47.0" layoutY="333.0" />
+        <TextField fx:id="txt_Nombre_Prod" layoutX="44.0" layoutY="100.0" />
+        <TextField fx:id="txt_Descr" layoutX="47.0" layoutY="175.0" />
+        <TableView fx:id="tabla_ID" layoutX="225.0" layoutY="143.0" prefHeight="200.0" prefWidth="378.0">
+            <columns>
+                <TableColumn fx:id="colum_NomProd" prefWidth="60.0" text="Nombre " />
+                <TableColumn fx:id="colum_Des" text="Descripción" />
+                <TableColumn fx:id="colum_Prec" prefWidth="85.0" text="Precio" />
+                <TableColumn fx:id="colum_Stock" prefWidth="75.0" text="Stock" />
+                <TableColumn fx:id="colum_IdProv" prefWidth="75.0" text="Id Proveedor" />
+            </columns>
+        </TableView>
+        <Button fx:id="id_mod" layoutX="377.0" layoutY="401.0" mnemonicParsing="false" onAction="#act_Mod" prefHeight="25.0" prefWidth="74.0" style="-fx-background-color: transparent;" />
+        <Button fx:id="id_borrar" layoutX="517.0" layoutY="401.0" mnemonicParsing="false" onAction="#Action_borrar" prefHeight="25.0" prefWidth="74.0" style="-fx-background-color: transparent;" />
+      <ChoiceBox fx:id="prov_choose_Id" layoutX="44.0" layoutY="401.0" prefWidth="150.0" />
+      <ImageView fitHeight="117.0" fitWidth="59.0" layoutX="495.0" layoutY="14.0" opacity="0.27" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../img/logo.png" />
+         </image>
+      </ImageView>
+      <TextField fx:id="busca" layoutX="222.0" layoutY="113.0" onKeyTyped="#buscador" />
+      <Label fx:id="id_prod1" layoutX="220.0" layoutY="92.0" text="Buscador" textFill="#f2eeee">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>

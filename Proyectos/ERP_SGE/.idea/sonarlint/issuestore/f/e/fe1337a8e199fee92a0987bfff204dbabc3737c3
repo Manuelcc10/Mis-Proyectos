@@ -1,0 +1,30 @@
+
+>
+java:S1604P"(Make this anonymous inner class a lambda(•˜ÕØ
+l
+java:S1104"VMake txt_IdProv a static final constant or non-public and provide accessors if needed.(“´øú
+q
+java:S1104"VMake txt_Nombre a static final constant or non-public and provide accessors if needed.(¯«Óøüÿÿÿÿ
+o
+java:S1104"YMake txt_direccion a static final constant or non-public and provide accessors if needed.(œª¼ö
+s
+java:S1104"XMake txt_Contacto a static final constant or non-public and provide accessors if needed.(Ì¥àùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”ë½şÿÿÿÿ
+j	java:S116"URename this field "txt_IdProv" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“´øú
+o	java:S116"URename this field "txt_Nombre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯«Óøüÿÿÿÿ
+m	java:S116"XRename this field "txt_direccion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œª¼ö
+q	java:S116"WRename this field "txt_Contacto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¥àùÿÿÿÿ
+g	java:S116"SRename this field "tabla_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Îï_
+j	java:S116!"URename this field "colum_prov" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢‹
+i	java:S116$"TRename this field "colum_Nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øƒ±Ù
+p	java:S116'"VRename this field "colum_Direc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úñ¹øÿÿÿÿ
+q	java:S116*"WRename this field "colum_Contac" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒîÏøÿÿÿÿ
+y	java:S116-"XRename this field "act_id_entrar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ•ÖÕùÿÿÿÿ8ˆè¿ÍÅ1
+r	java:S1160"QRename this field "id_mod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÖï°ÿÿÿÿÿ8ˆè¿ÍÅ1
+p	java:S1163"TRename this field "id_borrar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙûºÁ8ˆè¿ÍÅ1
+¤
+java:S1186ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ºğ¢ùÿÿÿÿ8ÀÕ¦èÅ1
+G	java:S106u"+Replace this use of System.out by a logger.(²ôæ8áÄ»ÍÅ1
+c	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹äøÕ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ëê;
+d	java:S100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûã‘Ç

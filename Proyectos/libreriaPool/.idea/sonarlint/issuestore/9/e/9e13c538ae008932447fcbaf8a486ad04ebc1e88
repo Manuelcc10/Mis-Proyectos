@@ -1,0 +1,11 @@
+
+r	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àˆ‹ïùÿÿÿÿ8½¯¿ÒÁ1
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¸ „ıÿÿÿÿ8½¯¿ÒÁ1
+{
+java:S1104%"YMake btn_aceptarId a static final constant or non-public and provide accessors if needed.(´­Ôšşÿÿÿÿ8Ç³íÅ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£˜£ı8¾¯¿ÒÁ1
+t	java:S116 "YRename this field "txtContraseÃ±a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¹çj8œÏÿéÅ1
+y	java:S116%"XRename this field "btn_aceptarId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´­Ôšşÿÿÿÿ8úí°íÅ1
+j	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ·Ğ†8ÄÏÿéÅ1
+[
+java:S1117v"9Rename "stage" which hides the field declared at line 35.(ƒÑÀ·ùÿÿÿÿ8í¯¿ÒÁ1

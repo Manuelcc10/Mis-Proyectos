@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="467.0" prefWidth="678.0" style="-fx-background-color: #4CAF50;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.compras_controller">
+    <children>
+        <Label fx:id="compras_registro" layoutX="238.0" layoutY="42.0" prefHeight="32.0" prefWidth="202.0" text="Registro Compras" textFill="#f5f4f4">
+            <font>
+                <Font name="System Bold" size="22.0" />
+            </font>
+        </Label>
+        <Button fx:id="id_butComprar" layoutX="247.0" layoutY="388.0" mnemonicParsing="false" onAction="#Act_Comprar" prefHeight="25.0" prefWidth="81.0" style="-fx-background-color: transparent;" />
+        <Label fx:id="id_compra" layoutX="50.0" layoutY="41.0" text="ID Compras" textFill="#f5f4f4">
+            <font>
+                <Font name="System Bold Italic" size="12.0" />
+            </font>
+        </Label>
+        <Label fx:id="IdCliente" layoutX="47.0" layoutY="119.0" text="ID Cliente" textFill="#f5f4f4">
+            <font>
+                <Font name="System Bold Italic" size="12.0" />
+            </font>
+        </Label>
+        <Label fx:id="Nombre_Producto" layoutX="47.0" layoutY="191.0" text="Nombre Producto" textFill="#f5f4f4">
+            <font>
+                <Font name="System Bold Italic" size="12.0" />
+            </font>
+        </Label>
+        <Label fx:id="id_fecha" layoutX="47.0" layoutY="273.0" text="Fecha " textFill="#f5f4f4">
+            <font>
+                <Font name="System Bold Italic" size="12.0" />
+            </font>
+        </Label>
+        <TableView fx:id="tabla_ID" layoutX="247.0" layoutY="160.0" prefHeight="200.0" prefWidth="399.0">
+            <columns>
+                <TableColumn fx:id="colum_IdCompra" prefWidth="62.0" text="ID Venta" />
+                <TableColumn fx:id="colum_IdCliente" prefWidth="74.0" text="ID Cliente" />
+                <TableColumn fx:id="colum_NombreProd" prefWidth="110.0" text="Nombre Producto" />
+                <TableColumn fx:id="colum_Fecha" prefWidth="79.0" text="Fecha" />
+                <TableColumn fx:id="colum_Cant" prefWidth="75.0" text="Cantidad" />
+            </columns>
+        </TableView>
+        <ChoiceBox fx:id="choise_IdCliente" layoutX="35.0" layoutY="147.0" prefWidth="150.0" />
+        <ChoiceBox fx:id="choise_NombreProd" layoutX="35.0" layoutY="224.0" prefWidth="150.0" />
+        <DatePicker fx:id="id_fechaPicker" layoutX="41.0" layoutY="306.0" prefHeight="25.0" prefWidth="150.0" />
+        <Label fx:id="id_cantidad" layoutX="47.0" layoutY="347.0" text="Cantidad" textFill="#f5f4f4">
+            <font>
+                <Font name="System Bold Italic" size="12.0" />
+            </font>
+        </Label>
+        <TextField fx:id="cantidad_txt" layoutX="42.0" layoutY="388.0" />
+        <TextField fx:id="compra_id_txt" layoutX="29.0" layoutY="72.0" />
+        <Button fx:id="mod_Id" layoutX="409.0" layoutY="388.0" mnemonicParsing="false" onAction="#act_mod" prefHeight="25.0" prefWidth="81.0" style="-fx-background-color: transparent;" />
+        <Button fx:id="borrar_Id" layoutX="564.0" layoutY="388.0" mnemonicParsing="false" onAction="#act_Borrar" prefHeight="25.0" prefWidth="81.0" style="-fx-background-color: transparent;" />
+      <ImageView fitHeight="109.0" fitWidth="52.0" layoutX="546.0" layoutY="33.0" opacity="0.2" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../img/logo.png" />
+         </image>
+      </ImageView>
+      <TextField fx:id="busca" layoutX="247.0" layoutY="115.0" onKeyTyped="#buscador" />
+      <Label layoutX="247.0" layoutY="89.0" text="Buscador" textFill="#fffbfb">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>

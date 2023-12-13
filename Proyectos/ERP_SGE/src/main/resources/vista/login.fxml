@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="598.0" prefWidth="627.0" style="-fx-background-color: #4CAF50;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.login_controller">
+   <children>
+      <Label layoutX="135.0" layoutY="21.0" prefHeight="32.0" prefWidth="122.0" text="Clientes" textFill="#f5f4f4">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font>
+      </Label>
+      <Button fx:id="act_id_entrar" layoutX="144.0" layoutY="489.0" mnemonicParsing="false" onAction="#button_entrar_act" prefHeight="25.0" prefWidth="81.0" style="-fx-background-color: transparent;" />
+      <Label fx:id="id_cliente" layoutX="50.0" layoutY="72.0" text="Cliente ID:" textFill="#f5f4f4">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txt_IdCliente" layoutX="47.0" layoutY="102.0" />
+      <Label fx:id="NombreID" layoutX="52.0" layoutY="226.0" text="Nombre" textFill="#f5f4f4">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="id_direccion" layoutX="49.0" layoutY="299.0" text="Dirección" textFill="#f5f4f4">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="id_contacto" layoutX="50.0" layoutY="373.0" text="Contacto" textFill="#f5f4f4">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="id_DNI" layoutX="52.0" layoutY="151.0" text="DNI" textFill="#f5f4f4">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txt_Nombre" layoutX="47.0" layoutY="256.0" />
+      <TextField fx:id="txt_direccion" layoutX="47.0" layoutY="333.0" />
+      <TextField fx:id="txt_Contacto" layoutX="47.0" layoutY="406.0" />
+      <TextField fx:id="txt_DNI" layoutX="47.0" layoutY="175.0" />
+      <TableView fx:id="tabla_ID" layoutX="225.0" layoutY="181.0" prefHeight="200.0" prefWidth="378.0">
+        <columns>
+          <TableColumn fx:id="colum_clienteID" prefWidth="60.0" text="Cliente ID" />
+          <TableColumn fx:id="colum_DNI" text="DNI" />
+            <TableColumn fx:id="colum_Nom" prefWidth="85.0" text="Nombre" />
+            <TableColumn fx:id="colum_Direc" prefWidth="75.0" text="Dirección" />
+            <TableColumn fx:id="colum_Contac" prefWidth="75.0" text="Contacto" />
+        </columns>
+      </TableView>
+      <Button fx:id="id_mod" layoutX="314.0" layoutY="489.0" mnemonicParsing="false" onAction="#act_Mod" prefHeight="25.0" prefWidth="74.0" style="-fx-background-color: transparent;" />
+      <Button fx:id="id_borrar" layoutX="469.0" layoutY="489.0" mnemonicParsing="false" onAction="#Action_borrar" style="-fx-background-color: transparent;" />
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="460.0" layoutY="14.0" opacity="0.27" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../img/logo.png" />
+         </image>
+      </ImageView>
+      <TextField fx:id="busca" layoutX="225.0" layoutY="102.0" onKeyTyped="#buscador" />
+      <Label layoutX="243.0" layoutY="72.0" text="Buscador:" textFill="#f5f0f0">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

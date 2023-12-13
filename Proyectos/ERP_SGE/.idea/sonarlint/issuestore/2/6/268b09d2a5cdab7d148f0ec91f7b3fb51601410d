@@ -1,0 +1,13 @@
+
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(˜‹›Ï
+^
+java:S2095G"HUse try-with-resources or close this "Connection" in a "finally" clause.(˜‹›Ï
+Y
+java:S1854">Remove this useless assignment to local variable "dataSource".(åÿˆÞúÿÿÿÿ
+J
+java:S1481"/Remove this unused "dataSource" local variable.(åÿˆÞúÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(¶çžþÿÿÿÿ
+h	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÔÐ¨ûÿÿÿÿ
+E	java:S106="+Replace this use of System.out by a logger.(Ÿ·àÞúÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(†ñôØÿÿÿÿÿ

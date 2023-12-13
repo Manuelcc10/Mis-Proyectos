@@ -1,0 +1,26 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´ı­‹8¨ÒèÅ1
+g
+java:S2583€"DChange this condition so that it does not always evaluate to "false"(»ïÓÂüÿÿÿÿ8–ÓèÅ1
+|	java:S116"[Rename this field "choise_IdCliente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¬Ûşÿÿÿÿ8–ÓèÅ1
+}	java:S116"\Rename this field "choise_NombreProd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åİù§üÿÿÿÿ8–ÓèÅ1
+t	java:S116"SRename this field "tabla_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã½Òƒşÿÿÿÿ8—ÓèÅ1
+z	java:S116"YRename this field "colum_IdCompra" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(––ËÁÿÿÿÿÿ8—ÓèÅ1
+v	java:S116!"ZRename this field "colum_IdCliente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º»Ë8—ÓèÅ1
+|	java:S116$"[Rename this field "colum_NombreProd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò°½»ıÿÿÿÿ8—ÓèÅ1
+r	java:S116'"VRename this field "colum_Fecha" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¢ì­8—ÓèÅ1
+q	java:S116*"URename this field "colum_Cant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í›Ö8—ÓèÅ1
+u	java:S116-"YRename this field "id_fechaPicker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÒªÈ8—ÓèÅ1
+s	java:S1160"WRename this field "cantidad_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ™Ãˆ8—ÓèÅ1
+y	java:S1163"XRename this field "compra_id_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÒÈ¹úÿÿÿÿ8—ÓèÅ1
+r	java:S1166"QRename this field "mod_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆá‰şÿÿÿÿ8—ÓèÅ1
+u	java:S1169"TRename this field "borrar_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ß¨Ÿüÿÿÿÿ8—ÓèÅ1
+s	java:S116<"XRename this field "id_butComprar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ŠéK8—ÓèÅ1
+¤
+java:S1186İ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ºğ¢ùÿÿÿÿ8—ÓèÅ1
+G	java:S106w"+Replace this use of System.out by a logger.(²ôæ8®ÓèÅ1
+j	java:S100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÊÏ´8®ÓèÅ1
+W
+java:S3400³"9Remove this method and declare a constant for this value.(§¼Éç8´ÓèÅ1
+p	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é£æ²úÿÿÿÿ8¼ÓèÅ1
+k	java:S100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ì‰8¿ÓèÅ1

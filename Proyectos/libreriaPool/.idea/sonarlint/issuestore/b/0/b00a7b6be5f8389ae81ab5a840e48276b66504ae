@@ -1,0 +1,12 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³Çöãşÿÿÿÿ8”ŠËØÁ1
+w	java:S116"VRename this field "txtLibro_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ç‡×ÿÿÿÿÿ8…¦îÅ1
+x	java:S116"WRename this field "txtTitulo_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È±Àùÿÿÿÿ8…¦îÅ1
+r	java:S116"VRename this field "txtAutor_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìïÀ8…¦îÅ1
+u	java:S116"YRename this field "txtCantidad_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÖ8…¦îÅ1
+o	java:S116 "TRename this field "dpAnio_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş˜a8†¦îÅ1
+t	java:S116""XRename this field "btnguardar_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó­Şş8†¦îÅ1
+o	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â‘­óúÿÿÿÿ8¤¦îÅ1
+G	java:S106x"+Replace this use of System.out by a logger.(ºû“õ8ºŠËØÁ1
+M	java:S106‘"+Replace this use of System.out by a logger.(µ¤€¡ÿÿÿÿÿ8Ò®ÌÿÁ1
+H	java:S106¨"+Replace this use of System.out by a logger.(±äª–8Â…ÛÿÁ1

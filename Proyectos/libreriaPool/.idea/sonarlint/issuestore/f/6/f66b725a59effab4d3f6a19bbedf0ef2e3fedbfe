@@ -1,0 +1,25 @@
+
+R
+java:S1141q"5Extract this nested try block into a separate method.(áé…8©†îÅ1
+X
+java:S1141Ö"5Extract this nested try block into a separate method.(æÿÉ±úÿÿÿÿ8ª†îÅ1
+S
+java:S1141Ù"5Extract this nested try block into a separate method.(â¡Öî8ª†îÅ1
+i	java:S101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µ†£î8ÊÉÿéÅ1
+t	java:S116#"SRename this field "tabla_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èú´—ÿÿÿÿÿ8£ÊÿéÅ1
+r	java:S116&"VRename this field "idLibro_tab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îõÅ¦8£ÊÿéÅ1
+v	java:S116)"URename this field "titulo_tab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒíÚıÿÿÿÿ8£ÊÿéÅ1
+p	java:S116,"TRename this field "autor_tab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÃû8£ÊÿéÅ1
+z	java:S116/"^Rename this field "anioPublicacion_tab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¬¸¯8£ÊÿéÅ1
+ƒ	java:S1162"bRename this field "cantidadDisponibles_tab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ï®üÿÿÿÿ8£ÊÿéÅ1
+p	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àıÂñÿÿÿÿÿ8†îÅ1
+p	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô„›ùÿÿÿÿ8¢†îÅ1
+p	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÇŒÁşÿÿÿÿ8¥†îÅ1
+Z
+java:S1128"8Remove this unused import 'javafx.application.Platform'.(§“óùÿÿÿÿ8¿Æ›îÅ1
+]
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8¿Æ›îÅ1
+l
+java:S1128"JRemove this unused import 'java.util.concurrent.ScheduledExecutorService'.(Êßˆÿÿÿÿÿ8¿Æ›îÅ1
+W
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8ÀÆ›îÅ1
